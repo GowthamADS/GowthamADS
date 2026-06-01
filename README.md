@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gowtham%20D&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Building%20Production-Ready%20ML%20Systems&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Gowtham%20D&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%20DS%20Graduate%20%7C%20Open%20to%20Work&descAlignY=60&descSize=18" width="100%"/>
 
 <div align="center">
 
@@ -129,7 +129,7 @@ print(me.motto())
 
 ---
 
-## 💼 Work Experience
+## 💼 InternShip Experience
 
 <details>
 <summary><b> Robotics & Data Intern — Zuntra Digitals</b> &nbsp;|&nbsp; June – August 2025 &nbsp;|&nbsp; Chennai, India</summary>
@@ -165,9 +165,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |---|---|---|
-|  [**Phishing URL Detector**](https://github.com/gowthamads1216) | Python · Flask · Scikit-learn · React · TypeScript · Tailwind · Netlify · Render | Random Forest Classifier with **95%+ F1-score**; end-to-end ML pipeline with EDA, feature engineering, REST API inference, live on Netlify & Render |
-|  [**Drone & Rover for Smart Agriculture**](https://github.com/gowthamads1216) | Python · OpenCV · Computer Vision · IoT · ML | Multi-class plant disease detection system; real-time anomaly detection on rover hardware; **🥇 1st Place — AI-ZYPHER'24 Shark Tank, SRM** (beat 30+ teams) |
-|  [**Smart Helmet for Road Safety**](https://github.com/gowthamads1216) | Python · IoT · Embedded Sensors · ML | Fused alcohol & fatigue sensors with rule-based ML + real-time risk scoring; sub-second alert latency; **🥇 1st Place — SRM Hackathon (₹3,000 prize)** |
+|  [**Phishing URL Detector**](https://github.com/GowthamADS/Phishing-URL-Detector) | Python · Flask · Scikit-learn · React · TypeScript · Tailwind · Netlify · Render | Random Forest Classifier with **95%+ F1-score**; end-to-end ML pipeline with EDA, feature engineering, REST API inference, live on Netlify & Render |
+|  [**Drone & Rover for Smart Agriculture**](https://github.com/GowthamADS) | Python · OpenCV · Computer Vision · IoT · ML | Multi-class plant disease detection system; real-time anomaly detection on rover hardware; **🥇 1st Place — AI-ZYPHER'24 Shark Tank, SRM** (beat 30+ teams) |
+|  [**Smart Helmet for Road Safety**](https://github.com/GowthamADS) | Python · IoT · Embedded Sensors · ML | Fused alcohol & fatigue sensors with rule-based ML + real-time risk scoring; sub-second alert latency; **🥇 1st Place — SRM Hackathon (₹3,000 prize)** |
 
 </div>
 
