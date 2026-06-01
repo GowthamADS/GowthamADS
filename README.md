@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Gowtham%20D&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Graduate%20%7C%20Open%20to%20Work&descAlignY=58&descSize=20)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gowtham%20D&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Building%20Production-Ready%20ML%20Systems&descAlignY=62&descSize=16" width="100%"/>
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Gowtham+D+%F0%9F%91%8B;AI+%26+Data+Science+Final-Year+Student;ML+Engineer+%7C+Flask+%7C+React+%7C+GCP;5x+Hackathon+Placer+%F0%9F%8F%86+3x+1st+Place+Winner)](https://git.io/typing-svg)
 
@@ -31,11 +33,11 @@ class GowthamD:
 
         self.fun_fact = (
             "Won 3 hackathons, built ML APIs, "
-            "and still debugging sensor noise 🤖"
+            "and still debugging sensor noise "
         )
 
     def motto(self):
-        return "Build. Train. Deploy. Repeat. 🚀"
+        return "Build. Train. Deploy. Repeat. "
 
 me = GowthamD()
 print(me.motto())
@@ -52,7 +54,6 @@ print(me.motto())
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -220,13 +221,14 @@ Full-Stack AI Apps  →   FastAPI, Streamlit, LangChain integrations
 ---
 
 <div align="center">
+    
+[![Profile Views](https://komarev.com/ghpvc/?username=GowthamADS&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/GowthamADS)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=gowthamads1216&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/GowthamADS)
-[![GitHub followers](https://img.shields.io/github/followers/gowthamads1216?style=flat-square&color=bf91f3&logo=github)](https://github.com/GowthamADS)
+[![GitHub followers](https://img.shields.io/github/followers/GowthamADS?style=flat-square&color=bf91f3&logo=github&label=Followers)](https://github.com/GowthamADS)
 
 **Let's connect and build something incredible! 🚀**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/gowthamads)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowthamads/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gowthamads1216@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://gowtham-online.netlify.app/)
 
